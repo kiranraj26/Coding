@@ -6,7 +6,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
 		//ystem.out.println("Hi");commits in code
-		
+		//Changes
 
 	}
 
